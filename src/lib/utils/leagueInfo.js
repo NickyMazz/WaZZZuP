@@ -25,7 +25,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
      {
        "roster": 1,  // "managerID" : "990712032955621376" (look at the order of the power rankings graph)
-       "name": "Nick Mass",
+       "name": "Jake",
        "tookOver": null, // 
        "location": null, // (optional)
        "bio": null,
@@ -42,7 +42,7 @@ export const managers = [
        "valuePosition": null, // (optional) Favorite position (QB, WR, RB, TE, etc.)
        "rookieOrVets": null, // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
        "philosophy": null,
-       "tradingScale": 10, // 1 - 10
+       "tradingScale": 6, // 1 - 10
        "preferredContact": null, // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
