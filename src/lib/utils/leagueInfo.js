@@ -24,7 +24,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-       "roster": 1,  // "managerID" : "990712032955621376" (look at the order of the power rankings graph)
+       "roster": 1,  // "managerID" : "859610383823020032" (look at the order of the power rankings graph)
        "name": "Jake",
        "tookOver": null, // 
        "location": null, // (optional)
@@ -46,7 +46,7 @@ export const managers = [
        "preferredContact": null, // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 2, // "managerID"  :  "1111387857605713920" // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 2, // "managerID"  :  "859613804584108032" // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Logan",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": null, // (optional)
@@ -68,7 +68,7 @@ export const managers = [
        "preferredContact": null, // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 3,  // "managerID"  :  "1180264353852616704" // (look at the order of the power rankings graph)
+       "roster": 3,  // "managerID"  :  "860403555310379008" // (look at the order of the power rankings graph)
        "name": "Rocco",
        "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": null, // (optional)
@@ -90,8 +90,8 @@ export const managers = [
        "preferredContact": null, // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-      "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Your Name",
+      "roster": 4,  // "managerID"  :  "860365961910394880" (look at the order of the power rankings graph)
+      "name": "Casey",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
       "bio": "Lorem ipsum...",
