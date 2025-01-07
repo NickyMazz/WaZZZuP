@@ -7,8 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
+  <p> (To open up the navigation menu, click the three lines located at the top left of the page!)<p>
   <p>Welcome to the WaZZZup Dynasty League!  Originating in 2018, it began as a redraft league amongst a small group of friends. In 2024, the league expanded into both a redraft, as well as a full-fledged dynasty league. Each year, the managers compete to win the WaZZZup Cup and avoid the ever-humiliating Toilet Bowl.</p>
-  <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bought the dip and built for the future.</p>
+  <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans.</p>
   <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $600 and the last place manager will eventually have to do there league punishment (pending).</p>
   
 `;
